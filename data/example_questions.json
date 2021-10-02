@@ -1,0 +1,20 @@
+{
+  "0" :{
+    "text": "What is the best?",
+    "type": "multiple",
+    "answers": {
+      "Red": "True",
+      "Blue": "True",
+      "Yellow": "True",
+      "Black": "True"
+    }
+  },
+  "1":{
+    "text": "Select the best match",
+    "type": "match",
+    "answers": {
+      "The best car is": "Mercedes",
+      "The best animal is": "dog",
+    }
+  }
+}
